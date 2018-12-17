@@ -57,7 +57,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Order.cs" />
+    <Compile Include="Menu.cs" />
+    <Compile Include="MenuPosition.cs" />
+    <Compile Include="OrderCalculator.cs" />
+    <Compile Include="OrderCalculatorTests.cs" />
+    <Compile Include="OrderPosition.cs" />
+    <Compile Include="PizzaTests.cs" />
+    <Compile Include="Price.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
